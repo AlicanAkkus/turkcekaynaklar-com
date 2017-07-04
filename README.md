@@ -152,7 +152,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Java'da Multithreading](https://ufukuzun.wordpress.com/tag/multithreading/) - [Ufuk Uzun](https://ufukuzun.wordpress.com/)
 - [Java ve ilişkili teknolojileri içeren blog](https://alicanakkus.github.io) ve [site](http://www.alicanakkus.com)
 - [Java ve kütüphanelerini içeren blog](http://yusufcakmak.com/category/java/) - Yusuf Çakmak
-- [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/) 
+- [Java ve ilişkili kütüphanelerle alakalı blog](http://www.bahadirakin.com/category/programlama/java/) - [Bahadır Akın](http://www.bahadirakin.com/)
 - [JavaTurk.org](http://www.javaturk.org/) - Akın Kaldıroğlu
 - [Java Pass by Value](https://blog.kodcu.com/2012/06/java-pass-by-value/) - Nihat Koçyiğit
 - [JPA 2.1 Entity Graph](https://kodedu.com/2014/09/jpa-2-1-entity-graph/) - Rahman Usta
@@ -202,7 +202,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Videolu ve Yazılı PHP Dersleri](http://www.erbilen.net/kategori/ders/php/) - [Tayfun Erbilen](http://www.erbilen.net)
 - :movie_camera: [PHP Eğitim Serisi](https://www.youtube.com/playlist?list=PL_f2F0Oyaj4-K_h0rC656Why8nJPF_dIO) - [Kablosuz Kedi](https://www.youtube.com/channel/UCYT5QTr38bwp85Pka8YSVIg/featured)
 - [Usulüne Uygun PHP](http://kulekci.net/php-the-right-way/) - [Haydar Külekçi](http://kulekci.net/)
-
+- [ZN Framework - Ozan Uykun](http://znframework.com/)
 
 ### Python
 - [Python Dersleri - İstihza, Yazbel](https://belgeler.yazbel.com/python-istihza/)
